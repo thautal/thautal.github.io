@@ -27,7 +27,6 @@ var json_Ylkoulutpainotettuopetus_1 = {
 { "type": "Feature", "properties": { "Name": "Sotungin koulu", "q2wHide_painot_lkm": 0.0, "painot_aih": null, "A_kielet": null }, "geometry": { "type": "Point", "coordinates": [ 25.121601, 60.28021 ] } },
 { "type": "Feature", "properties": { "Name": "Peltolan koulu", "q2wHide_painot_lkm": 2.0, "painot_aih": "musiikki, kielikylpy", "A_kielet": null }, "geometry": { "type": "Point", "coordinates": [ 25.027994, 60.298367 ] } },
 { "type": "Feature", "properties": { "Name": "Jokiniemen koulu", "q2wHide_painot_lkm": 0.0, "painot_aih": null, "A_kielet": null }, "geometry": { "type": "Point", "coordinates": [ 25.051859, 60.299385 ] } },
-{ "type": "Feature", "properties": { "Name": "Vantaan kansainvälinen koulu", "q2wHide_painot_lkm": 0.0, "painot_aih": null, "A_kielet": null }, "geometry": { "type": "Point", "coordinates": [ 24.9584, 60.285183 ] } },
 { "type": "Feature", "properties": { "Name": "Korson koulu", "q2wHide_painot_lkm": 0.0, "painot_aih": null, "A_kielet": null }, "geometry": { "type": "Point", "coordinates": [ 25.069126, 60.358204 ] } },
 { "type": "Feature", "properties": { "Name": "Mikkolan koulu", "q2wHide_painot_lkm": 1.0, "painot_aih": "musiikki", "A_kielet": null }, "geometry": { "type": "Point", "coordinates": [ 25.094828, 60.340908 ] } },
 { "type": "Feature", "properties": { "Name": "Koivukylän koulu", "q2wHide_painot_lkm": 0.0, "painot_aih": null, "A_kielet": null }, "geometry": { "type": "Point", "coordinates": [ 25.076616, 60.32492 ] } },
